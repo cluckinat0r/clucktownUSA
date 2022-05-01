@@ -1,0 +1,51 @@
+html {
+  background-color: #000000;
+}
+button {
+  background-color: ;
+  border-radius: 20px;
+  padding: 2%;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+
+header {
+  border: 5px solid #7F0000;
+  text-align: center;
+  font-size: 12px;
+  border-radius: 25px;
+  position: fixed;
+  display: block;
+  width: 20%;
+}
+
+#h1 {
+  margin-bottom: -0.5%;
+  margin-top: -0.5%;
+}
+
+#pageBody{
+  margin: 0;
+  display: flex;
+}
+
+#mainBody {
+  background-color: blue;
+  margin: 0;
+  padding: 0;
+}
+
+#main-container {
+  color: #7F0000;
+  text-align: center;
+  width: 50%;
+  height: auto;
+  position: fixed;
+  display: block;
+  padding: 5%;
+  border: 8px solid #7F0000;
+  background-color: #000000;
+  border-radius: 25px;
+  margin-left: 20%;
+  margin-top: 5%;
+}
